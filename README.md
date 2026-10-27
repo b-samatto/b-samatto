@@ -14,4 +14,19 @@ Hey 😊 Samatto, meet your code alchemist | tech enthusiast | building clean, u
 #### 🚀 Live Projects:
 - [Arsha Website](https://superlative-cassata-85efa3.netlify.app)
 
+### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+### 📈 GitHub Stats
+![Bentah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b-samatto&show_icons=true&theme=tokyonight)
+
+### 🚀 Live Projects:
+- [Arsha - Business Landing Page](https://superlative-cassata-85efa3.netlify.app) - My first responsive template
+- [Portfolio Website](https://b-samatto.github.io) - My personal portfolio
+- [More coming soon...]
+
+🌱 Currently learning JavaScript & UI/UX Design
+💬 Ask me about HTML, CSS, Bootstrap
